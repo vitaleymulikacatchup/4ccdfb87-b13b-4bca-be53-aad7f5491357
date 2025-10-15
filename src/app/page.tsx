@@ -53,8 +53,8 @@ export default function Home() {
         <div className="mx-auto px-4 md:px-6">
           <FeatureCardTwo
             features={[
-              { title: "Cloud Computing", description: "Scale your business efficiently.", icon: "Cloud" },
-              { title: "AI Integration", description: "Boost productivity with AI solutions.", icon: "Cpu" }
+              { title: "Cloud Computing", description: "Scale your business efficiently.", icon: Cloud },
+              { title: "AI Integration", description: "Boost productivity with AI solutions.", icon: Cpu }
             ]}
           />
         </div>
